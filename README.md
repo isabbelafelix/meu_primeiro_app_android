@@ -4,3 +4,5 @@ Criação de aplicativo Mobile Android
 
 
 ## Desenvolvimento
+
+Utilizando Kotlin
