@@ -1,2 +1,2 @@
-# meu_primeiro_app_android
+# Programa de Formação Mobile - BRQ
 Meu primeiro aplicativo Android 
